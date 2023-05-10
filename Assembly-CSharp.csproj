@@ -72,6 +72,7 @@
   <ItemGroup>
     <None Include="Assets\UnityBuild-in resources\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\UnityBuild-in resources\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\AddressableAssetsData\link.xml" />
     <None Include="Assets\UnityBuild-in resources\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
     <None Include="Assets\Resources\Assets\Quirky Series - Birds Bundle\_Shader\SoftSurface.shader" />
     <None Include="Assets\Resources\Assets\Fantasy Skybox FREE\Readme.txt" />
