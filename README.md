@@ -1,2 +1,2 @@
 # Flappy-bird
-QA Testing project
+QA Testing purposes project only
