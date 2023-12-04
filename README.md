@@ -1,2 +1,1 @@
-# Flappy-bird
-QA Testing purposes project only
+Qualify educational test project
